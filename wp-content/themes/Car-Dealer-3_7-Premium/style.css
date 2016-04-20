@@ -1,4 +1,4 @@
-/*
+center/*
 Theme Name: CAR DEALER
 Description: WordPress Car Dealer Theme
 Author: Gorilla Themes
@@ -30,6 +30,8 @@ ol, ul {
 blockquote, q {
     quotes: none;
 }
+
+
 
 .advSearchHome input.search-btn {
     background: url(images/search-btn.png) center top no-repeat;
@@ -86,7 +88,7 @@ body {
     background: none!important;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h3x, h2x, h2xg {
     font-weight: bold;
 }
 
@@ -103,7 +105,7 @@ h3 {
 }
 
 h4 {
-    font: 14px 'PlayRegular', Arial, Helvetica, "Trebuchet MS", sans-serif;
+    font: 16px 'PlayRegular', Arial, Helvetica, "Trebuchet MS", sans-serif;
 }
 
 h5 {
@@ -112,6 +114,17 @@ h5 {
 
 h6 {
     font: 10px 'PlayRegular', Arial, Helvetica, "Trebuchet MS", sans-serif;
+}
+
+h2x {
+    font: 24px  Arial, Helvetica, "Trebuchet MS", sans-serif;
+}
+h2xg {
+    font: 24px  Arial, Helvetica, "Trebuchet MS", sans-serif;
+    color: #017642;
+}
+h3x {
+    font: 18px  Arial, Helvetica, "Trebuchet MS", sans-serif;
 }
 
 @font-face {
@@ -171,8 +184,14 @@ a:hover {
 .header-wrapper {
     width: 100%;
     position: relative;
-    background: url(images/header-bg.png) center top repeat-x;
+    /* background: url(images/header-bg.png) center top repeat-x; */
     height: 73px;
+}
+.boob {
+    width: 100%;
+    position: relative;
+    background: url(images/header-bg.png) center top repeat-x;
+    height: 93px;
 }
 
 .header {
@@ -189,16 +208,16 @@ a:hover {
 
 .header-wrapper-home {
     width: auto;
-    position: relative;
+   position: absolute;
     overflow: hidden;
     background: url(images/slider-bg.png) center top repeat-x;
-    height: 374px;
+    height: 344px;
     margin: 0 auto 21px auto;
     z-index: 100;
 }
-
+/* width was 980 */
 .header-home {
-    width: 980px;
+    width: 1000px;
     margin: 0px auto;
     position: relative;
     height: 380px;
@@ -216,9 +235,25 @@ a:hover {
     float: right !important;
 }
 
+.left-menu {
+    float: left !important;
+    padding-left: 10%;
+}
+
+.right-menu {
+    float: right !important;
+    padding-right: 10%;
+    text-align: center;
+}
+
+.center-menu {
+     display: block;
+    margin-left: auto !important;
+    margin-right: auto !important; 
+}
 .nav-panel {
     background: url(images/nav-bg.png) center top no-repeat;
-    width: 760px;
+    width: 100%;
     height: 39px;
     line-height: 39px;
     float: right;
@@ -228,20 +263,20 @@ a:hover {
 /*home search form*/
 
 .search-form-wrapper {
-    width: 249px;
+    width: 280px;
     background: #fff url(images/slider-side-bg.png) center top repeat-x;
-    float: right;
-    height: 288px;
-    border: 1px solid #fff;
+    float: left;
+    height: 270px;
+    border: 0px solid #fff;
     border-left: none;
     -moz-border-radius: 0px 8px 8px 0px;
     -webkit-border-radius: 0px 8px 8px 0px;
-    border-radius: 0px 8px 8px 0px;
+    border-radius: 8px 0px 0px 8px;
     -moz-box-shadow: 2px 2px 2px black;
     -webkit-box-shadow: 2px 2px 2px black;
     box-shadow: 2px 2px 2px black;
     behavior: url(js/PIE.htc);
-    padding: 10px 29px 0px 18px;
+    padding: 0px 14px 0px 0px;
     z-index: 100;
 }
 
@@ -251,10 +286,17 @@ a:hover {
 
 .search-form-wrapper h3 {
     padding-bottom: 6px;
-    border-bottom: 1px dotted #929292;
+    /* border-bottom: 1px dotted #929292; */
     margin-bottom: 2px;
     text-align: center;
 }
+
+.search-form-wrapper h1 {
+    padding-bottom: 6px;
+    border-bottom: 1px dotted #929292;
+    margin-bottom: 2px;
+    text-align: center;
+    }
 
 .search-form-wrapper p {
     position: relative;
@@ -411,15 +453,19 @@ a:hover {
 }
 
 #slides {
+    border-radius: 8px 8px 8px 8px;
     line-height: 0px;
     -moz-box-shadow: 2px 2px 2px black;
     -webkit-box-shadow: 2px 2px 2px black;
     box-shadow: 2px 2px 2px black;
     behavior: url(js/PIE.htc);
-    width: 683px !important;
-    height: 300px !important;
+    width: 90% !important;
+    height: 270px !important;
     z-index: 300;
     overflow: hidden;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .ie8 #slides {
@@ -435,11 +481,11 @@ a:hover {
 }
 
 #slides img {
-    -moz-border-radius: 8px 0px 0px 8px;
-    -webkit-border-radius: 8px 0px 0px 8px;
-    border-radius: 8px 0px 0px 8px;
+    -moz-border-radius: 8px 8px 8px 8px;
+    -webkit-border-radius: 8px 8px 8px 8px;
+    border-radius: 8px 8px 8px 8px;
     behavior: url(js/PIE.htc);
-    width: 683px;
+    width: 100%;
     overflow: hidden;
 }
 .slides_control {
@@ -1109,18 +1155,18 @@ ul.cars-list.list-three {
 }
 
 .right-white-block {
-    background: #fff url(images/sidebar-top-bg.png) center top repeat-x;
+    /* background: #fff url(images/sidebar-top-bg.png) center top repeat-x; */
     margin: 0 0 20px 2px;
     position: relative;
     overflow: hidden;
     padding: 18px;
-    border: 1px solid #fff;
+    /* border: 1px solid #fff; */
     -moz-border-radius: 8px;
     -webkit-border-radius: 8px;
     border-radius: 8px;
-    -moz-box-shadow: 2px 2px 4px #929292;
-    -webkit-box-shadow: 2px 2px 4px #929292;
-    box-shadow: 2px 2px 4px #929292;
+    /* -moz-box-shadow: 2px 2px 4px #929292; */
+    /* -webkit-box-shadow: 2px 2px 4px #929292; */
+    /* box-shadow: 2px 2px 4px #929292; */
     behavior: url(js/PIE.htc);
     width: 188px;
 }
@@ -1152,8 +1198,9 @@ ul.cars-list.list-three {
 }
 
 ul.side-nav h3 {
+    text-align: center;
     border: none;
-    margin: 0 0 30px 0;
+    /* margin: 0 0 30px 0; */
     border-bottom: 1px dotted #929292;
 }
 
@@ -2448,7 +2495,7 @@ label.error {
 }
 
 .blog-post p {
-    font: 14px 'PlayRegular', Arial, Helvetica, "Trebuchet MS", sans-serif;
+    font: 15px 'PlayRegular', Arial, Helvetica, "Trebuchet MS", sans-serif;
     line-height: 20px;
     margin-bottom: 20px;
 }
@@ -3531,3 +3578,80 @@ a.arrivals-link:hover {
 	.bg_fix_inner{ width:400px; height:73px;  background:url(images/header-bg.png) center top repeat-x;   position:absolute; right:-30px; top:0px;}
 */
 .map iframe{width: 204px;height: 260px; } 
+
+.right-boarder-radius {
+    
+    border-radius: 0px 8px 8px 0px!important;
+ }
+ 
+ .widget-boarder-radius {
+    
+    border-radius: 20px!important;
+ }
+ 
+ .center-text {
+  
+    text-align: center!important;
+}
+
+ .button-submit1 {
+     color: #ffffff;
+     cursor: pointer;
+     display: inline-block;
+     line-height: 35px;
+     background: #017642;
+     padding: 0px 20px;
+     vertical-align: middle;
+     font-size: 18px;
+     min-width: 80px;
+     min-height: 35px;
+     font-family: Segoe UI;
+     border: 1px solid transparent;
+     margin: 5px;
+     border-radius: 20px!important;
+}
+
+.center {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 20% !important;
+    padding: 0px 20px;
+
+}
+
+ .custom-button{
+ color: #ffffff;
+border-radius: 6px;
+cursor: pointer;
+display: inline-block;
+line-height: 35px;
+background: #017642;
+padding: 0px 20px;
+vertical-align: middle;
+font-size: 18px;
+min-width: 80px;
+min-height: 35px;
+font-family: Segoe UI;
+border: 1px solid transparent;
+margin: 5px;
+}
+
+ .custom-button-blue{
+ color: #ffffff;
+text-align: center;
+margin-left: auto !important;
+margin-right: auto !important;
+border-radius: 6px;
+cursor: pointer;
+display: inline-block;
+line-height: 35px;
+background: #2F576B;
+padding: 0px 20px;
+vertical-align: middle;
+font-size: 18px;
+min-width: 200px;
+min-height: 35px;
+font-family: Segoe UI;
+border: 1px solid transparent;
+margin: 5px;
+}

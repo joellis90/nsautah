@@ -54,7 +54,7 @@
       <ul class="title-area">
         <!-- Title Area -->
         <li class="name">
-          <div> <a href="<?php bloginfo('url'); ?>"> <img class="logo" src="<?php header_image(); ?>" alt="<?php bloginfo('name'); ?>" /> </a> </div>
+          <div> <a href="<?php bloginfo('url'); ?>"> <img class="logo" src="/wp-content/uploads/2014/12/logogood-e1418947945507.png" alt="<?php bloginfo('name'); ?>" /> </a> </div>
         </li>
         <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
         <li class="toggle-topbar down-arrow"><a id="menuToggle" href="#"></a></li>
@@ -77,13 +77,15 @@
   </div>
 </div>
 <!--End Moblie Navigation Bar-->
-<div class="header-wrapper hide-for-small">
+<div class="boob">
+	<div class="header-wrapper hide-for-small">
 	<a class="left-menu" href="/"><img src="/wp-content/uploads/logo-large.png"></a>
-	<div class="right-menu"><h2x>4050 South Main Street</h2><br>
+	<div class="right-menu"><h2x>4050 South Main Street</h2x><br>
 			  <h3x>Murray, UT 84107</h3x><br>
 			  <h2xg>(801) 266-3266</h2xg>
 			  <br></div>
 	</div>
+</div>
 </div>
 
 <div class="<?php echo is_front_page()?"header-wrapper-home":"header-wrapper";?> ">

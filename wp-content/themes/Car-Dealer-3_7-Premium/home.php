@@ -1,5 +1,9 @@
-<?php get_header(); ?>
-
+<?php
+/*
+Template Name: home
+*/
+?>
+<?php include(TEMPLATEPATH . '/header1.php'); ?>
 	<div id="container" class="twelve columns">
 
 		<div id="content">
@@ -30,14 +34,17 @@
 						<h2><a href="<?php the_permalink() ?>"><?php the_title();?></a></h2>
 
 							<?php the_content();?>
-							<div class="fb-like" data-href="https://www.facebook.com/pages/New-Start-Auto-Utah/749045595110418" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+							
+							
 
 					</div>
 
 				<?php endwhile; ?>				
 
 			</div>			
-
+<div><?php require_once( AUTODEALER_INCLUDES.'arrivals1.php'); ?></div>	
+<div class="fb-like" data-href="https://www.facebook.com/pages/New-Start-Auto-Utah/749045595110418" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<hr>
 		</div>
 
 	<div id="sidebar-right">

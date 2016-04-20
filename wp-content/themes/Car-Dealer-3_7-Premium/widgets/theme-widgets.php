@@ -1286,7 +1286,7 @@ class Footer4_Widget extends WP_Widget {
 		$title = empty($instance['title']) ? ' ' : apply_filters('widget_title', $instance['title']);
 		$address = empty($instance['address']) ? ' ' : apply_filters('widget_title', $instance['address']);?>
 <div class="footer-col footer-col4">
-  <h3><?php echo $title;?></h3>
+  <h2 class="text-center"><?php echo $title;?></h2><br/>
  <single-address><?php echo $address;?></single-address>
                         <script type="text/javascript">
 	$(document).ready(function(){

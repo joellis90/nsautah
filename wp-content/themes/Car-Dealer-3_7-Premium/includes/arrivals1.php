@@ -1,10 +1,10 @@
 <span class="hideOnSearch">
-	<h2 class="mobile top-deals-mobile-wrapper"><?php _e('Recently Sold','language');?></h2>
+	<h2 class="mobile top-deals-mobile-wrapper"><?php _e('Just Sold','language');?></h2>
 		<div class="product-list-wrapper">
 			<ul class="tricol-product-list">
 				<?php $query = new WP_Query(array(
 					'post_type' => array('gtcd','user_listing'),
-					'posts_per_page' => '9'
+					'posts_per_page' => '3'
 					));
 						if ( $query->have_posts() ) while ( $query->have_posts() ) : $query->the_post(); global $post,$field, $fields, $fields2, $fields3; $fields = get_post_meta($post->ID, 'mod1', true); $fields3 = get_post_meta($post->ID, 'mod3', true); $fields2 = get_post_meta($post->ID, 'mod2', true);  $symbols = get_option('gorilla_symbols'); $options = get_option('gorilla_fields');include(TEMPLATEPATH."/functions/var/default-box-one.php");include(TEMPLATEPATH."/functions/var/default-box-two.php");include(TEMPLATEPATH."/functions/var/default-box-three.php");?>					  	
 				<li class="new-arrivals-list"><a class="arrivals-link" href="<?php the_permalink();?>">

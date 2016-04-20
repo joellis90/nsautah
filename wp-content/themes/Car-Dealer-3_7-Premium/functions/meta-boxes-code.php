@@ -13,7 +13,7 @@ $meta_boxes = array(
 	  "rows" => "",
 	  "width" => "",
 	  "hide_in_search" => $options['statustaghide'],
-	  "options" => array("1" => "New","2" => "Used","3" => "Sale","4" => "Reduced","5" => "Sold")
+	  "options" => array("1" => "","2" => "Used","3" => "Sale","4" => "Reduced","5" => "Sold")
 
 	), 
 "featured" => array(

@@ -1,20 +1,3 @@
-<div class="bottom-bar-wrapper hide-for-small">
-
-	<div class="bottom-bar">
-
-		<p><?php _e('Car Dealer by','language');?>
-
-			<a href="http://gorillathemes.com"><?php echo('Gorilla Themes');?></a> - <?php _e('Powered by','language');?>
-
-			<a href="http://wordpress.org"><?php _e('WordPress','language');?></a>
-
-		</p>
-
-	</div>
-
-</div>
-
-
 <div class="footer-wrapper">
 
 	<div id="footer">
@@ -34,13 +17,7 @@
  
             <div style="width:100%; height:48px; background: url(<?php bloginfo('template_url'); ?>/images/common/footerMobile.png) repeat-x;">
             <div class="twelve columns">            
-                <div class="footer_links"><?php _e('Car Dealer by','language');?>
-
-					<a href="http://gorillathemes.com" class="footer-gorilla-link"></a> - <?php _e('Powered by','language');?>
-
-					<a href="http://wordpress.org" class="footer-wp-link"></a>
-
-				</div>
+                
                
             </div>           
             

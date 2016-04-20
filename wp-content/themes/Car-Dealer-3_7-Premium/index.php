@@ -33,7 +33,7 @@
 			<?php endif; ?>
 
 		</div><!--end of sidebar div-->	<div style="clear:both"></div>
-<div class="hide-for-small">
+<!-- <div class="hide-for-small">
 		<?php require_once( AUTODEALER_INCLUDES.'find-cars.php'); ?>
 </div>
 	</div><!--end of container div-->  
