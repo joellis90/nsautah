@@ -1,0 +1,42 @@
+<?php get_header(); ?>
+	<div id="container"  class="twelve columns">
+		<div id="content">
+		<div class="tri-col-span right detail-page">
+		<div class="cpsAjaxLoaderSingle">   	
+</div>
+	</div>
+		<?php cps_ajax_search_results(); ?>
+			<div class="tri-col-span hideOnSearch">
+				<h2 class="search-title">
+				<?php if ( is_tag() ) {
+					echo 'Tag Archive for &quot;'.$tag.'&quot; | ';
+				} elseif ( is_archive() ) {
+					wp_title(''); echo ' Category'; 
+				} else {
+					echo wp_title( '', false, right ); 
+				} ?></h2>
+				<?php if ( have_posts() ): while ( have_posts() ) : the_post(); ?>
+                  	<div class="blog-post">
+					<h2><a href="<?php the_permalink() ?>"><?php the_title();?></a></h2>
+                    	<?php the_excerpt();?>
+					</div>
+				<?php 
+					endwhile;
+					else:
+				?>
+					<div class="no-post">
+						<h3><?php _e('No, Results Found','language');?></h3>
+						<p><?php _e('Sorry, No Posts found!','language');?></p>
+					</div>
+				<?php endif;?>
+				<?php theme_pagination( $wp_query->max_num_pages); ?>
+			</div>			
+		</div><!--end of content div-->
+		<div id="sidebar-right">
+            	<?php if ( ! dynamic_sidebar( 'Common Right Sidebar' )) : ?>
+				<?php endif; ?>
+			</div>
+
+		<div class="clearfix"></div>
+	</div><!--end of container div-->
+<?php get_footer(); ?>

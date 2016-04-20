@@ -1,0 +1,1170 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gorilla Themes <support@gorillathemes.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: cdform.php:254
+msgid " (select make first)"
+msgstr " (seleccione vehiculo)"
+
+#. Text in function
+#: functions/styles.php:16
+msgid " Options"
+msgstr "Opciones"
+
+#. Text in echo
+#: includes/arrivals.php:19
+msgid "0"
+msgstr "0"
+
+#. Text in echo
+#: 404.php:6
+msgid "404 Page Not Found!"
+msgstr "404 No Hay Resultados!"
+
+#. Text in echo
+#: widgets/theme-widgets.php:113
+msgid "<strong>Enter Calculator title:</strong> "
+msgstr "<strong>Titulo de Calculadora:</strong> "
+
+#. Text in echo
+#: widgets/theme-widgets.php:335
+msgid "<strong>Enter Full Specifications title:</strong> <br/>(leave empty to hide) "
+msgstr "<strong>Título de especificaciones completas:</strong> <br/>(leave empty to hide) "
+
+#. Text in echo
+#: widgets/theme-widgets.php:340
+msgid "<strong>Enter title for fourth module:</strong> <br/>(leave empty to hide)"
+msgstr "<strong>Título de widget numero 4:</strong> <br/>(En blanco para ocultar)"
+
+#. Text in echo
+#: widgets/theme-widgets.php:336
+msgid "<strong>Enter title for second module:</strong> <br/>(leave empty to hide)"
+msgstr "<strong>Título de widget numero 2:</strong> <br/>En blanco para ocultar)"
+
+#. Text in echo
+#: widgets/theme-widgets.php:150
+msgid "<strong>Number of listings:</strong>  "
+msgstr "<strong>Numero de Articulos:</strong>  "
+
+#. Text in echo
+#: widgets/theme-widgets.php:149
+msgid "<strong>Title:</strong>"
+msgstr "<strong>Titulo:</strong>"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Add New "
+msgstr "Nuevo"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "Add New Vehicle"
+msgstr "Nuevo vehicle"
+
+#. Text in function
+#: includes/meta-box.php:272
+msgid "Add Photos"
+msgstr "Agregar Fotos"
+
+#. Text in function
+#: includes/meta-box.php:1
+msgid "Add more files"
+msgstr "Agregar mas archivos"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "All "
+msgstr "Todos"
+
+#. Text in echo
+#: functions/search-code.php:147
+msgid "Any price"
+msgstr "Precio"
+
+#. Text in function
+#: functions.php:490
+msgid "Appearance"
+msgstr "Apariencia"
+
+#. Text in echo
+#: widgets/theme-widgets.php:544
+msgid "Automatically add paragraphs"
+msgstr "Añadir automáticamente los párrafos"
+
+#. Text in echo
+#: functions/search-code.php:264
+msgid "BACK TO TOP"
+msgstr "Ir Arriba"
+
+#. Text in echo
+#: functions/styles.php:38
+msgid "Black"
+msgstr "Negro"
+
+#. Text in echo
+#: functions/styles.php:37
+msgid "Blue"
+msgstr "Azul"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Bore:"
+msgstr "Diámetro:"
+
+#. Text in echo
+#: functions/styles.php:39
+msgid "Brown"
+msgstr "Marron"
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:70
+msgid "Business  Phone, Currency & Metrics"
+msgstr "Telefono, Moneda y Medidas"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Business Phone Number:"
+msgstr "Numero de Telefono"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Camshaft:"
+msgstr "Arbol de levas:"
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:90
+msgid "Car Dealer Search Options Setup"
+msgstr "Opciones de Car Dealer"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Car Dealer Setup"
+msgstr "Configuracion de Car Dealer"
+
+#. Text in echo
+#: footer.php:3
+#: footer-form.php:3
+msgid "Car Dealer by"
+msgstr "Car Dealer por"
+
+#. Text in echo
+#: cdform.php:464
+msgid "Click the \"More photos\" link to add all your images, all photos will be automatically resized to fit the property listing layout. We recommend that you upload photos in full resolution for better results."
+msgstr "Haga clic en el enlace  \"Más fotos\" para agregar todas las imágenes, todas las fotos serán redimensionadas automáticamente para ajustarse al diseño de listado. Le recomendamos que subir fotos de resolución completa para obtener mejores resultados."
+
+#. Text in function
+#: functions.php:490
+#: contact-us.php:132
+msgid "Comments"
+msgstr "Comentarios"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Compression Ratio:"
+msgstr "Relación de compresión:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Condition:"
+msgstr "Condicion:"
+
+#. Text in function
+#: widgets/theme-widgets.php:545
+msgid "Contact Form in The Sidebar"
+msgstr "Formulario de contacto en la barra lateral"
+
+#. Text in echo
+#: functions/meta-boxes-code.php:686
+msgid "Contact:"
+msgstr "Contactar:"
+
+#. Text in echo
+#: functions/meta-boxes-code.php:685
+msgid "Copy & Paste the generated code into your Craigslist ad."
+msgstr "Copiar y pegar el código generado en su anuncio de Craigslist."
+
+#. Text in echo
+#: functions/meta-boxes-code.php:684
+msgid "Craigslist Code:"
+msgstr "Codigo de Craigslist:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Curb Height:"
+msgstr "Altura de borde:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Currency & Metrics"
+msgstr "Moneda & Medidas"
+
+#. Text in echo
+#: widgets/theme-widgets.php:98
+msgid "DOWN PAYMENT:  $"
+msgstr "Pago Inicial: $"
+
+#. Text in function
+#: functions.php:490
+msgid "Dashboard"
+msgstr "Tablero"
+
+#. Text in function
+#: includes/meta-box.php:1
+msgid "Delete"
+msgstr "Borrar"
+
+#. Text in function
+#: includes/meta-box.php:1
+msgid "Delete this image"
+msgstr "Borrar esta imagen"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+#: functions/meta-boxes-code.php:686
+msgid "Description"
+msgstr "Descripcion"
+
+#. Text in echo
+#: financing.php:116
+msgid "Down Payment:  "
+msgstr "Pago Inicial:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:73
+#: functions/user-post-type.php:68
+msgid "Drive"
+msgstr "Tracción"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Drive:"
+msgstr "Tracción:"
+
+#. Text in echo
+#: functions.php:471
+msgid "E-mail Notification of New Listings Submitted for Approval"
+msgstr "Notificacion de Correo Eletronico para listados de web"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "EPA Mileage:"
+msgstr "Millage EPA:"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Edit "
+msgstr "Editar"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "Edit Listing"
+msgstr "Editar listado"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "Edit Vehicle"
+msgstr "Editar el vehículo"
+
+#. Text in echo
+#: cdform.php:523
+#: includes/form-footer.php:66
+#: contact-us.php:122
+msgid "Email"
+msgstr "Correo"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Engine Size:"
+msgstr "Tamaño del motor:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Engine Type:"
+msgstr "Tipo de motor:"
+
+#. Text in function
+#: functions.php:490
+msgid "Enter Vehicle Year & Model Here"
+msgstr "Introduzca el vehículo Año y Modelo"
+
+#. Text in echo
+#: widgets/theme-widgets.php:338
+msgid "Enter title for third module:</strong> <br/>(leave empty to hide)"
+msgstr "Introduzca el titulo del tercer module:</strong> <br/>(En blanco para ocultar)"
+
+#. Text in function
+#: functions/gtcd-post-type.php:73
+#: functions/user-post-type.php:68
+msgid "Exterior"
+msgstr "Exterior"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Exterior:"
+msgstr "Exterior:"
+
+#. Text in echo
+#: widgets/theme-widgets.php:426
+msgid "Facebook Page Name: "
+msgstr "Nombre de la página de Facebook"
+
+#. Text in echo
+#: single-gtcd.php:54
+msgid "Fatures"
+msgstr "Caracteristicas"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Features:"
+msgstr "Caracteristicas:"
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:94
+msgid "Fields"
+msgstr "Camposr"
+
+#. Text in echo
+#: financing.php:96
+msgid "Fill-in Your Loan Information"
+msgstr "Entre informacion de credito"
+
+#. Text in echo
+#: includes/find-cars.php:7
+msgid "Find cars by Features"
+msgstr "Busca por caracterisiticas"
+
+#. Text in echo
+#: includes/find-cars.php:8
+msgid "Find cars by Make"
+msgstr "Buscar por Marca"
+
+#. Text in echo
+#: includes/find-cars.php:6
+msgid "Find cars by Vehicle Type"
+msgstr "Buscar por Tipo"
+
+#. Text in echo
+#: cdform.php:483
+msgid "First name"
+msgstr "Nombre"
+
+#. Text in function
+#: widgets/theme-widgets.php:545
+msgid "Footer 1 Widget"
+msgstr "Widget de Pie 1"
+
+#. Text in function
+#: widgets/theme-widgets.php:545
+msgid "Footer 2 Widget"
+msgstr "Widget de Pie 2"
+
+#. Text in function
+#: widgets/theme-widgets.php:508
+msgid "Footer 3 Widget"
+msgstr "Widget de Pie 3"
+
+#. Text in function
+#: widgets/theme-widgets.php:545
+msgid "Footer 4 Widget (Form)"
+msgstr "Widget de Pie 4 (Formulario)"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Fuel Capacity:"
+msgstr "Capacidad de Gas:"
+
+#. Text in echo
+#: functions/styles.php:40
+msgid "Green"
+msgstr "Verde"
+
+#. Text in function
+#: functions.php:490
+msgid "Gtalk"
+msgstr "Gtalk"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Head Room:"
+msgstr "Espacio para la cabeza:"
+
+#. Text in function
+#: functions/basic-theme-setup.php:1
+msgid "Header Menu"
+msgstr "Cabecera"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Height:"
+msgstr "Alto:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:104
+msgid "Hide in Search Module:"
+msgstr "Ocultar en modulo de busqueda:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Horsepower:"
+msgstr "Caballos de fuerza:"
+
+#. Text in echo
+#: functions.php:475
+msgid "I want to be notified by e-mail"
+msgstr "Dese ser notificado por e-mail"
+
+#. Text in echo
+#: widgets/theme-widgets.php:100
+msgid "INTEREST RATE: %"
+msgstr "Tasa de interés: %"
+
+#. Text in echo
+#: financing.php:124
+msgid "Interest Rate: "
+msgstr "Interes:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:73
+#: functions/user-post-type.php:68
+msgid "Interior"
+msgstr "Interior"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Interior:"
+msgstr "Interior:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "Inventory"
+msgstr "Inventario"
+
+#. Text in echo
+#: widgets/theme-widgets.php:102
+msgid "LOAN TERM: Yrs.   "
+msgstr "Plazo del préstamo: Años."
+
+#. Text in echo
+#: cdform.php:495
+msgid "Last name"
+msgstr "Apellido"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Leg Room:"
+msgstr "Espacio para las piernas:"
+
+#. Text in echo
+#: widgets/theme-widgets.php:398
+msgid "Legend: "
+msgstr "Mensage:"
+
+#. Text in function
+#: functions.php:490
+msgid "Links"
+msgstr "Enlaces"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "Listing"
+msgstr "Listado"
+
+#. Text in function
+#: cdform.php:161
+msgid "Listing Title:"
+msgstr "Titulo:"
+
+#. Text in echo
+#: financing.php:134
+msgid "Loan Term: "
+msgstr "Plazo del préstamo:"
+
+#. Text in echo
+#: widgets/theme-widgets.php:105
+msgid "MONTHLY PAYMENT: $"
+msgstr "PAGO MENSUAL: $"
+
+#. Text in echo
+#: cdform.php:218
+msgid "Make"
+msgstr "Marca"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+#: functions/user-post-type.php:1
+msgid "Make & Model"
+msgstr "Marca y Modelo"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Make & Model:"
+msgstr "Marca y Modelo:"
+
+#. Text in function
+#: functions.php:490
+msgid "Media"
+msgstr "Media"
+
+#. Text in echo
+#: includes/form.php:111
+#: includes/form-footer.php:73
+msgid "Message"
+msgstr "Mensaje"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Metric:"
+msgstr "Medida:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:73
+#: functions/user-post-type.php:68
+msgid "Miles"
+msgstr "Millas"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Miles:"
+msgstr "Millas:"
+
+#. Text in echo
+#: cdform.php:254
+msgid "Model"
+msgstr "Modelo"
+
+#. Text in echo
+#: financing.php:166
+msgid "Monthly Payment: "
+msgstr "Pago Mensual"
+
+#. Text in echo
+#: cdform.php:458
+msgid "More photos"
+msgstr "Mas Fotos"
+
+#. Text in echo
+#: includes/form-footer.php:58
+#: contact-us.php:109
+msgid "Name"
+msgstr "Nombre"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "New "
+msgstr "Nuevo"
+
+#. Text in echo
+#: includes/arrivals.php:2
+msgid "New Arrivals"
+msgstr "Novedades"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "No Listings Found"
+msgstr "No encontrado"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "No Listings Found In Trash"
+msgstr "No se encontraron listados en la basura:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "No Vehicles Found"
+msgstr "No se han encontrado vehiculos"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "No Vehicles Found In Trash"
+msgstr "No se han encontrado vehiculos en la basura"
+
+#. Text in echo
+#: tag.php:23
+#: category.php:28
+#: archive.php:28
+msgid "No, Results Found"
+msgstr "No hay resultados"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Number of Cylinders:"
+msgstr "Número de cilindros:"
+
+#. Text in echo
+#: functions/styles.php:19
+msgid "Options saved"
+msgstr "Se han guardado las opciones"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Overall Length:"
+msgstr "Longitud total:"
+
+#. Text in echo
+#: single-gtcd.php:57
+msgid "Overview"
+msgstr "Información general"
+
+#. Text in echo
+#: widgets/theme-widgets.php:96
+msgid "PURCHASE PRICE:  $"
+msgstr "PRECIO DE COMPRA: $"
+
+#. Text in function
+#: header-form.php:6
+#: header.php:6
+msgid "Page %s"
+msgstr "Pagina $s"
+
+#. Text in function
+#: functions.php:490
+msgid "Pages"
+msgstr "Paginas"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Parent"
+msgstr "Top"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Parent "
+msgstr "Top"
+
+#. Text in echo
+#: cdform.php:473
+msgid "Personal Information &raquo;"
+msgstr "Informacion Personal &raquo;"
+
+#. Text in function
+#: functions.php:490
+msgid "Phone"
+msgstr "Telefono"
+
+#. Text in echo
+#: cdform.php:535
+msgid "Phone number"
+msgstr "Número de teléfono"
+
+#. Text in function
+#: includes/meta-box-usage.php:1
+#: includes/meta-box.php:272
+msgid "Photo Gallery"
+msgstr "Galería de fotos"
+
+#. Text in echo
+#: includes/slider.php:7
+#: cdform.php:516
+msgid "Please wait"
+msgstr "Por favor, espere."
+
+#. Text in function
+#: functions.php:490
+msgid "Plugins"
+msgstr "Plugins"
+
+#. Text in echo
+#: footer.php:4
+#: footer-form.php:4
+msgid "Powered by"
+msgstr "Desarrollado por"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Price:"
+msgstr "Precio:"
+
+#. Text in echo
+#: financing.php:149
+msgid "Principal: "
+msgstr "Principal: "
+
+#. Text in echo
+#: cdform.php:449
+msgid "Property Photos"
+msgstr ""
+
+#. Text in echo
+#: financing.php:108
+msgid "Purchase Price:  "
+msgstr "Precio de compra:"
+
+#. Text in echo
+#: financing.php:103
+msgid "Purchase information"
+msgstr "Compra de información"
+
+#. Text in echo
+#: functions/styles.php:41
+msgid "Red"
+msgstr "Rojo"
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:93
+msgid "Rename labels and options for the search module and hide-show each field in the form."
+msgstr "Cambiar el nombre de las etiquetas y las opciones para el módulo de búsqueda y ocultar-mostrar el campo cada uno en el formulario."
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:80
+#: functions/menu-and-settings-page.php:100
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#. Text in echo
+#: functions/styles.php:47
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Search "
+msgstr "Buscar"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "Search Listings"
+msgstr "Buscar listados"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+#: widgets/theme-widgets.php:341
+msgid "Search Module"
+msgstr "Modulo de Busqueda"
+
+#. Text in echo
+#: includes/slider.php:32
+msgid "Search New & Used Cars"
+msgstr "Buscar Vehiculos"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "Search Vehicles"
+msgstr "Buscar Vehiculos"
+
+#. Text in echo
+#: includes/slider.php:4
+msgid "Searching for Vehicles"
+msgstr "Buscando Vehiculos"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Seating Capacity (Std.):"
+msgstr "Capacidad de asientos (estándar):"
+
+#. Text in echo
+#: cdform.php:418
+msgid "Select"
+msgstr "Seleccione"
+
+#. Text in echo
+#: cdform.php:259
+msgid "Select Model"
+msgstr "Seleccione Modelo"
+
+#. Text in echo
+#: functions/styles.php:35
+msgid "Select a color style for your website: "
+msgstr "Seleccione un estilo de color para su sitio web:"
+
+#. Text in echo
+#: functions/menu-and-settings-page.php:75
+msgid "Select your phone, currency and metrics."
+msgstr "Seleccione su teléfono, la moneda y la métrica."
+
+#. Text in echo
+#: cdform.php:553
+msgid "Send copy to my email address"
+msgstr "Enviar copia a mi dirección de correo electrónico"
+
+#. Text in function
+#: functions.php:490
+msgid "Settings"
+msgstr "Configuración"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Setup Module"
+msgstr "Modulo de configuración"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Setup Options"
+msgstr "Opciones de configuración"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Setup Page"
+msgstr "Página de Configuración"
+
+#. Text in echo
+#: includes/similar-cars.php:2
+msgid "Similar cars by features"
+msgstr "Coches similares por características"
+
+#. Text in function
+#: functions.php:490
+msgid "Skype"
+msgstr "SKype"
+
+#. Text in echo
+#: tag.php:24
+#: category.php:29
+#: archive.php:29
+msgid "Sorry, No Posts found!"
+msgstr "Lo siento, no hay ningun comentario"
+
+#. Text in echo
+#: includes/form.php:53
+#: includes/form-footer.php:51
+msgid "Sorry, an error occured."
+msgstr "Lo sentimos, ha ocurrido un error."
+
+#. Text in echo
+#: taxonomy.php:45
+#: functions/search-code.php:261
+msgid "Sorry, no listings matched your criteria."
+msgstr "Lo sentimos, no hay listados corresponde a sus criterios."
+
+#. Text in echo
+#: 404.php:7
+msgid "Sorry, no results found. Please try another search"
+msgstr "Lo sentimos, no hay resultados. Por favor intente otra búsqueda"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Stock #:"
+msgstr "Numero de control:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Stroke:"
+msgstr "Carrera:"
+
+#. Text in echo
+#: cdform.php:150
+msgid "Submit your Vehicle to"
+msgstr "Envie su vehículo a"
+
+#. Text in echo
+#: cdform.php:158
+msgid "Thank you "
+msgstr "Gracias"
+
+#. Text in echo
+#: contact-us.php:90
+msgid "Thanks,"
+msgstr "Gracias,"
+
+#. Text in echo
+#: includes/form.php:49
+#: includes/form-footer.php:47
+msgid "Thanks, your email was sent successfully."
+msgstr "Gracias, su e-mail se ha enviado correctamente."
+
+#. Text in function
+#: functions/styles.php:1
+msgid "Theme Color"
+msgstr "Color de plantilla"
+
+#. Text in echo
+#: functions/styles.php:32
+msgid "Theme Selection"
+msgstr "Selección de Tema"
+
+#. Text in function
+#: functions/styles.php:1
+msgid "Theme Style"
+msgstr "Estilo de Tema"
+
+#. Text in echo
+#: contact-us.php:98
+msgid "There was an error submitting the form."
+msgstr "Hubo un error al enviar el formulario."
+
+#. Text in echo
+#: cdform.php:160
+msgid "This is a summary of your submitted listing."
+msgstr "Resumen de su listado."
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Tires (Std.):"
+msgstr "Llantas (Estándar):"
+
+#. Text in echo
+#: widgets/theme-widgets.php:241
+msgid "Title:"
+msgstr "Titulo:"
+
+#. Text in echo
+#: widgets/theme-widgets.php:373
+#: widgets/theme-widgets.php:425
+#: widgets/theme-widgets.php:572
+msgid "Title: "
+msgstr "Titulo:"
+
+#. Text in function
+#: functions.php:490
+msgid "Tools"
+msgstr "Herramientas:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Torque #:"
+msgstr "Torque #:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Torque:"
+msgstr "Torque:"
+
+#. Text in echo
+#: financing.php:157
+msgid "Total Payments: "
+msgstr "Pago total:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Transmission:"
+msgstr "Transmisión:"
+
+#. Text in echo
+#: widgets/theme-widgets.php:468
+msgid "URL for full page : "
+msgstr "Url de la pagina:"
+
+#. Text in function
+#: functions/custom-taxonomies.php:1
+msgid "Update "
+msgstr "Actualizar"
+
+#. Text in echo
+#: cdform.php:454
+msgid "Upload Photo 1 "
+msgstr "Cargar Foto 1"
+
+#. Text in function
+#: includes/meta-box.php:1
+msgid "Upload new files"
+msgstr "Cargar Nuevos Archivos"
+
+#. Text in function
+#: includes/meta-box.php:1
+msgid "Uploaded files"
+msgstr "Archivos Cargados"
+
+#. Text in echo
+#: cdform.php:511
+msgid "Uploading your Vehicle Information"
+msgstr "Cargar información de su vehículo"
+
+#. Text in function
+#: cdform.php:6
+msgid "User already exists.  Password inherited."
+msgstr "Usuario existe. Contraseña no generada."
+
+#. Text in function
+#: functions.php:490
+msgid "Users"
+msgstr "Usuarios"
+
+#. Text in function
+#: functions/gtcd-post-type.php:73
+#: functions/menu-and-settings-page.php:1
+#: functions/user-post-type.php:68
+msgid "VIN:"
+msgstr "VIN:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Valves per Cylinder:"
+msgstr "Valvulas por Cilindro:"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+#: functions/user-post-type.php:1
+msgid "Vehicle Information"
+msgstr "Informacion de Vehiculo"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+#: functions/user-post-type.php:1
+msgid "Vehicle Photo"
+msgstr "Foto de Vehiculo"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Vehicle Type:"
+msgstr "Tipo de Vehiculo:"
+
+#. Text in echo
+#: single-gtcd.php:62
+#: single-gtcd.php:63
+msgid "Video"
+msgstr "Video"
+
+#. Text in echo
+#: functions/basic-theme-setup.php:201
+msgid "Video ID"
+msgstr "ID de Video"
+
+#. Text in echo
+#: functions/basic-theme-setup.php:205
+msgid "Video Source"
+msgstr "Ver Fuente"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "View All Vehicles"
+msgstr "Ver todos los vehiculos"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "View Listing"
+msgstr "Ver Listado"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "View Vehicle"
+msgstr "Vehiculo"
+
+#. Text in echo
+#: functions/basic-theme-setup.php:208
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "Web Listings"
+msgstr "Listados de Web"
+
+#. Text in echo
+#: functions/meta-boxes-code.php:686
+msgid "Website:"
+msgstr "Sitio Web:"
+
+#. Text in function
+#: widgets/theme-widgets.php:205
+msgid "Welcome Legend on Home Page"
+msgstr "Mensage de Bienvendida"
+
+#. Text in function
+#: widgets/theme-widgets.php:205
+msgid "Welcome Widget"
+msgstr "Widget de Bienvenida"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Wheelbase:"
+msgstr "Distancia entre ejes:"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Width:"
+msgstr "Ancho:"
+
+#. Text in echo
+#: footer.php:5
+#: footer-form.php:5
+msgid "WordPress"
+msgstr "WordPress"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Year:"
+msgstr "Año"
+
+#. Text in function
+#: contact-us.php:24
+msgid "You entered an invalid email address."
+msgstr "E-mail no valido"
+
+#. Text in function
+#: contact-us.php:24
+msgid "You forgot to enter your comments."
+msgstr "Olvido sus comentarios"
+
+#. Text in function
+#: contact-us.php:24
+msgid "You forgot to enter your email address."
+msgstr "Olvido su e-mail"
+
+#. Text in function
+#: contact-us.php:24
+msgid "You forgot to enter your name."
+msgstr "Olvido su nombre."
+
+#. Text in echo
+#: functions/basic-theme-setup.php:207
+msgid "YouTube"
+msgstr "YouTube"
+
+#. Text in function
+#: functions/menu-and-settings-page.php:1
+msgid "Your Currency:"
+msgstr "Su Moneda:"
+
+#. Text in function
+#: widgets/theme-widgets.php:545
+msgid "Your Facebook Fan Box, add your Facebook Fan Page ID and place this widget in your Sidebar to display your followers."
+msgstr "Facebook Fan Widget, introduzca el nombre de su pagina de Facebook para mostrar el widget en la barra lateral."
+
+#. Text in echo
+#: includes/form.php:112
+#: includes/form-footer.php:74
+msgid "Your Message"
+msgstr "Su Mensaje"
+
+#. Text in echo
+#: financing.php:144
+msgid "Your Results"
+msgstr "Resultados"
+
+#. Text in echo
+#: cdform.php:191
+msgid "Your Vehicle Information &raquo;"
+msgstr "Informacion de Vehiculo &raquo;"
+
+#. Text in echo
+#: contact-us.php:91
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "E-mail enviado correctamente."
+
+#. Text in echo
+#: cdform.php:199
+msgid "Your listing title"
+msgstr "Titulo del listado"
+
+#. Text in echo
+#: cdform.php:186
+msgid "Your verification code is wrong"
+msgstr "Codigo de verificacion no valido"
+
+#. Text in function
+#: functions/gtcd-post-type.php:1
+msgid "inventory"
+msgstr "Inventario"
+
+#. Text in function
+#: functions/user-post-type.php:1
+msgid "listing"
+msgstr "listado"
+
+#. Text in function
+#: functions.php:490
+msgid "more"
+msgstr "mas"
+
+#. Text in echo
+#: cdform.php:158
+msgid "your vehicle was added successfully and it will be reviewed for publishing, you will receive an e-mail when the listing goes live and we will e-mail a password for you to edit your vehicle listing in our inventory."
+msgstr "Su vehiculo has sido enviado correctamente, usted recibira un e-mail cuando este listo para ser publicado."
+
